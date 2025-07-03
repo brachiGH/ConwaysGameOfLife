@@ -1,0 +1,5 @@
+game
+cell.o
+game.o
+game_of_life.o
+.vscode
