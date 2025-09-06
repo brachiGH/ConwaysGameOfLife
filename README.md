@@ -10,9 +10,9 @@ The program simulates a two-dimensional grid of cells, where each cell can be ei
 
 ![Game of Life Screenshot](game.gif)
 
-## How to Build and Run
+## Build and Run
 
-    ```bash
-    make
-    ./game
-    ```
+```bash
+make
+./game
+```
