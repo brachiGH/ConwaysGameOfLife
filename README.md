@@ -8,7 +8,7 @@ The program simulates a two-dimensional grid of cells, where each cell can be ei
 
 ## Screenshot
 
-![Game of Life Screenshot](image.png)
+![Game of Life Screenshot](game.gif)
 
 ## How to Build and Run
 
